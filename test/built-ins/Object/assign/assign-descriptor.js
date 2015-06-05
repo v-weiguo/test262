@@ -8,6 +8,7 @@ includes:
 es6id: 19.1.2.1
 ---*/
 
+
 verifyWritable(Object, "assign");
 verifyNotEnumerable(Object, "assign");
 verifyConfigurable(Object, "assign");
